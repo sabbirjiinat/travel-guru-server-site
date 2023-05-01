@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "name": "COX'S BAZAR",
+        "thumbnail_url": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/10/e2/f8/43/longest-sea-beach-in.jpg",
+        "details": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "origin" : "Dhaka",
+        "destination" : "Cox's Bazar"
+    },
+    {
+        "id": "2",
+        "name": "SREEMANGAL",
+        "thumbnail_url": "https://novemecoresort.com/wp-content/uploads/2018/12/3.jpg",
+        "details" : "Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, the rubber, pineapple, wood, betel, and lemon industries also exist in the upazila.",
+        "origin" : "Dhaka",
+        "destination" : "Sreemangal"
+    },
+    {
+        "id": "3",
+        "name": "SUNDARBANS",
+        "thumbnail_url": "https://new-media.dhakatribune.com/en/uploads/2022/02/13/new-project-1599296482873.jpeg",
+        "details" : "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. Sundarban Reserve Forest of Bangladesh is the largest mangrove forest in the world",
+        "origin" : "Dhaka",
+        "destination" : "Sundarban's"
+    }
+   
+  
+]

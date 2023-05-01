@@ -1,0 +1,82 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/7f/0c/c8/seagull-hotel.jpg",
+      "details": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, ",
+      "price" : "$34"
+    },
+    {
+      "_id": "0282e0e58a5c4jhdjhdhsdjdh64764764",
+      "category_id": "1",
+      "rating": { "number": 4.0, "badge": "Excellent" },
+      "image_url": "https://pix10.agoda.net/hotelImages/119/1196495/1196495_17122303270060592602.jpg?ca=6&ce=1&s=450x450",
+      "details": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, ",
+      "title": "Light bright airy stylish apt & safe peaceful stay",
+      "price" : "$64"
+    },
+    {
+      "_id": "0282e0e78564875judfyhsdjdh64764764",
+      "category_id": "1",
+      "rating": { "number": 5.0, "badge": "Excellent" },
+      "image_url": "https://i.ytimg.com/vi/2dt2aPEJf6s/maxresdefault.jpg",
+      "details": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, ",
+      "title": "Light bright airy stylish apt & safe peaceful stay",
+      "price" : "$64"
+    },
+    {
+      "_id": "0282eksajureruirjudfyhsdjdh64764764",
+      "category_id": "2",
+      "rating": { "number": 5.0, "badge": "Excellent" },
+      "image_url": "https://content.r9cdn.net/himg/f7/db/2b/expediav2-5639058-d3ee99-965968.jpg",
+      "details": "Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, ",
+      "title": "Light bright airy stylish apt & safe peaceful stay",
+      "price" : "$44"
+    },
+    {
+      "_id": "sdifysefxfyhuhfgfdgdjdh64764764",
+      "category_id": "2",
+      "rating": { "number": 4.0, "badge": "Excellent" },
+      "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/f0/32/26/novem-eco-resort.jpg",
+      "details": "Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, ",
+      "title": "Light bright airy stylish apt & safe peaceful stay",
+      "price" : "$54"
+    },
+    {
+      "_id": "sdifysefaghfggfgfghfdgdh64764764",
+      "category_id": "2",
+      "rating": { "number": 4.0, "badge": "Excellent" },
+      "image_url": "https://bangladeshbusinessdir.com/wp-content/uploads/2017/10/Tea-Resort-and-Museum-Srimangal.jpg",
+      "details": "Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, ",
+      "title": "Light bright airy stylish apt & safe peaceful stay",
+      "price" : "$54"
+    },
+    {
+      "_id": "ssirughhftdtdfgfgghrthrt64764",
+      "category_id": "3",
+      "rating": { "number": 4.0, "badge": "Excellent" },
+      "image_url": "https://static.toiimg.com/photo/msid-95010660,width-96,height-65.cms",
+      "details": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the ",
+      "title": "Light bright airy stylish apt & safe peaceful stay",
+      "price" : "$64"
+    },
+    {
+      "_id": "ssi4e85hdcffxgfggfgdffgrt64764",
+      "category_id": "3",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "image_url": "https://www.tripiwiki.com/images/places/uploads/Sundarbans-National-Park58171.jpg",
+      "details": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the ",
+      "title": "Light bright airy stylish apt & safe peaceful stay",
+      "price" : "$44"
+    },
+    {
+      "_id": "ssiydfdfhghrtdfhfgggdrt64764",
+      "category_id": "3",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "image_url": "https://breathedreamgo.com/wp-content/uploads/2022/07/Sunderbans-Tiger-Camp-sign-479x350.jpg",
+      "details": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the ",
+      "title": "Light bright airy stylish apt & safe peaceful stay",
+      "price" : "$84"
+    }
+  ]
