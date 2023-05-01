@@ -28,6 +28,7 @@ app.get('/travel/category/:id', (req, res) => {
     const id = req.params.id;
     const filterTravel = travel.filter(tv => tv.category_id == id)
     res.send(filterTravel)
+    console.log(filterTravel);
  
 })
 
